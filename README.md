@@ -1,4 +1,4 @@
-#Alarm
+# Alarm
 
 Alarm dibuat dengan **bahasa pemograman PHP** dengan **Framework Laravel 7**
 
